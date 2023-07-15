@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\bin\Debug\SktTakipProgrami.exe.config
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\bin\Debug\SktTakipProgrami.exe
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\bin\Debug\SktTakipProgrami.pdb
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.Properties.Resources.resources
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.exe
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.pdb
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.frmAcilis.resources
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.frmYiyecekler.resources
+C:\Users\lenovo\source\repos\SktTakipProgrami\SktTakipProgrami\obj\Debug\SktTakipProgrami.frmIcecekler.resources
